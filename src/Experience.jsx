@@ -125,7 +125,7 @@ export default function Experience() {
               position={[0, 1.56, -1.4]}
               rotation-x={-0.256}
             >
-              <iframe src="https://thamank.netlify.app"></iframe>
+              <iframe src="https://thamanportfolio.netlify.app"></iframe>
             </Html>
             <Text fontSize={0} position={[2.1, 0.5, -1]}>
               {" "}
